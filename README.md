@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm [Sonjoy Kumar Paul](https://www.linkedin.com/in/sonjoykp/), a Ph.D. student in the [Department of Computer Science and Engineering at Texas A&M University](https://engineering.tamu.edu/cse/index.html). My research interests include Cybersecurity and Cryptography.
+I'm [Sonjoy Kumar Paul](www.linkedin.com/in/sonjoy-kumar-paul-9115b6b2), a Ph.D. student in the [Department of Computer Science and Engineering at Texas A&M University](https://engineering.tamu.edu/cse/index.html). My research is focused on Cybersecurity, Neurosecurity, and Brainwave Privacy.
 
-Previously, I worked for five years as a C++ software engineer at [CodeCrafters International Ltd.](https://www.codecraftersintl.com/), where I gained extensive experience in large-scale portfolio management and credit analysis software. I had the opportunity to work on complex projects with a codebase of over 2 million lines. I have expertise in code review, software development, and implementing efficient data structures.
+Previously, I worked for five years as a C++ software engineer at [CodeCrafters International Ltd.](https://www.codecraftersintl.com/), where I gained extensive experience in large-scale portfolio management and credit analysis software. I had the opportunity to work on complex projects with a codebase of over 2 million lines. I have expertise in code review, software development, and the implementation of efficient data structures.
 
 Furthermore, I hold a Bachelor's Degree in Computer Science and Engineering from [Bangladesh University of Engineering and Technology (BUET)](https://www.buet.ac.bd/), Dhaka, Bangladesh. In addition to C++ and C, my top skills include software engineering principles and system design.
